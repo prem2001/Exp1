@@ -17,5 +17,6 @@ public class Activity2 extends Activity {
         Toast.makeText(this,getIntent().getStringExtra("data"),Toast.LENGTH_SHORT).show();
         Log.d("THREAD2","thread name: "+Thread.currentThread().getName()
                 +" Thread ID: "+Thread.currentThread().getId());
+        //prem
     }
 }
