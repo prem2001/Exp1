@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/prem/Desktop/projects/Android/IndglobalChatApp2/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/prem/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d560fb8342c1caa4fe7b5a3af5fe6bdc/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -59,6 +59,7 @@ public class MainActivity extends Activity {
 
 
         ButterKnife.bind(this);
+        ///
 //        if (new SessionManager(this).getIsLogin()) {
 //            startActivity(new Intent(getApplicationContext(), SecondActivity.class));
 //        }
