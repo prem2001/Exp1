@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IndglobalChatApp</string>
+    <string name="type_message">Type Message</string>
+    <string name="str_ok">OK</string>
+    <string name="str_alert">Alert !!!</string>
+    <string name="str_no_connection">Please check your internet connection</string>
+</resources>
